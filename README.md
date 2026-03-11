@@ -2,6 +2,8 @@
 
 ![Session image](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/iwu-ai-preso-qr.png)
 
+<img src="https://github.com/JavaFXpert/iwu-ai-preso/blob/main/iwu-ai-preso-qr.png" alt="Session image" width="25%">
+
 ### A College Class Session Outline
 
 > Instructor: James Weaver, 11 Mar 2026
