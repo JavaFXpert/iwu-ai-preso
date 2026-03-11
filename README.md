@@ -12,7 +12,7 @@
 2. Data Centers and Environmental Impact
 3. Effect on Entry-Level Jobs
 4. Coding with AI
-5. Agentic AI / AI Agents
+5. [Agentic AI / AI Agents](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/agentic-ai-lecture-slides.md)
 6. Claude and Excel
 7. Q&A
 
