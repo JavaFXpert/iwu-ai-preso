@@ -1,5 +1,7 @@
 # AI: From Data to Daily Work
 
+![Session image](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/iwu-ai-preso-qr.png)
+
 ### A College Class Session Outline
 
 > Instructor: James Weaver, 11 Mar 2026
