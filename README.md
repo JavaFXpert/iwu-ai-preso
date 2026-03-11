@@ -20,13 +20,13 @@
 
 ---
 
-## Coding with AI
+## Coding with AI: English is the new coding language
 
-- How developers actually use AI assistants today
-- Code generation, debugging, and refactoring
-- Strengths and blind spots of AI-generated code
-- The "copilot" mental model: human judgment still matters
-- Live demo or walkthrough (if time allows)
+- Some leading agentic full-stack coding tools: Codex, Claude Code
+- We'll use Claude to prompt small apps into existence
+- Create a free account at http://claude.ai
+- Select **Artifacts** in the sidebar and click **+New artifact**
+- Pick an artifact category or start building your idea from scratch
 
 <!-- NOTES: Students starred this one too. Consider showing a brief side-by-side of writing code with and without AI assistance. -->
 
