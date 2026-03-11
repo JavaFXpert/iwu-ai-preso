@@ -20,6 +20,18 @@
 
 ---
 
+## Coding with AI
+
+- How developers actually use AI assistants today
+- Code generation, debugging, and refactoring
+- Strengths and blind spots of AI-generated code
+- The "copilot" mental model: human judgment still matters
+- Live demo or walkthrough (if time allows)
+
+<!-- NOTES: Students starred this one too. Consider showing a brief side-by-side of writing code with and without AI assistance. -->
+
+---
+
 ## Training Datasets
 
 - Where does AI training data come from?
@@ -60,18 +72,6 @@
 > The goal isn't to compete with AI. It's to become someone who's more valuable *with* it.
 
 <!-- NOTES: High student interest here. Keep it honest but constructive. Avoid both hype and doom. -->
-
----
-
-## Coding with AI
-
-- How developers actually use AI assistants today
-- Code generation, debugging, and refactoring
-- Strengths and blind spots of AI-generated code
-- The "copilot" mental model: human judgment still matters
-- Live demo or walkthrough (if time allows)
-
-<!-- NOTES: Students starred this one too. Consider showing a brief side-by-side of writing code with and without AI assistance. -->
 
 ---
 
