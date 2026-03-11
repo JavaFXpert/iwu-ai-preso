@@ -8,10 +8,10 @@
 
 ## Agenda
 
-1. [Training Datasets](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/how-modern-ai-is-trained-slides.md)
-2. [Data Centers and Environmental Impact](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/ai-data-centers-lecture-slides.md)
-3. [Effect on Entry-Level Jobs](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/ai-and-entry-level-jobs-slides.md)
-4. Coding with AI: English is the new coding language
+1. Coding with AI: English is the new coding language
+2. [Training Datasets](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/how-modern-ai-is-trained-slides.md)
+3. [Data Centers and Environmental Impact](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/ai-data-centers-lecture-slides.md)
+4. [Effect on Entry-Level Jobs](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/ai-and-entry-level-jobs-slides.md)
 5. [Agentic AI / AI Agents](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/agentic-ai-lecture-slides.md)
 6. Claude and Excel
 7. Q&A
