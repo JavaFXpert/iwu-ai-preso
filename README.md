@@ -1,6 +1,6 @@
 <img src="https://github.com/JavaFXpert/iwu-ai-preso/blob/main/iwu-ai-preso-qr.png" alt="Session image" width="25%">
 
-# AI: From Data to Daily Work
+# English is the New Programming Language
 
 > Instructor: James Weaver, IBM Quantum, 11 Mar 2026
 
@@ -8,7 +8,7 @@
 
 ## Agenda
 
-1. Coding with AI: English is the new coding language
+1. Coding with AI
 2. [Training Datasets](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/how-modern-ai-is-trained-slides.md)
 3. [Data Centers and Environmental Impact](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/ai-data-centers-lecture-slides.md)
 4. [Effect on Entry-Level Jobs](https://github.com/JavaFXpert/iwu-ai-preso/blob/main/ai-and-entry-level-jobs-slides.md)
@@ -20,7 +20,7 @@
 
 ---
 
-## Coding with AI: English is the new coding language
+## Coding with AI
 
 - Some leading agentic full-stack coding tools: Codex, Claude Code
 - We'll use Claude to prompt small apps into existence
