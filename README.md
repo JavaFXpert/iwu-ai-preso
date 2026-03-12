@@ -27,6 +27,7 @@
 - Create a free account at http://claude.ai
 - Select **Artifacts** in the sidebar and click **+New artifact**
 - Pick an artifact category or start building your idea from scratch
+- [Attendees' Claude artifacts](https://docs.google.com/document/d/1RCu3P_pubcRfUVns6yvUmMr1G8FqSGklp2Bq520NnVU/edit?tab=t.0)
 
 <!-- NOTES: Students starred this one too. Consider showing a brief side-by-side of writing code with and without AI assistance. -->
 
